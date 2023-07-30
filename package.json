@@ -16,6 +16,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@bayathy/eslint-config": "^1.7.0",
+    "@bayathy/eslint-config-react": "^1.4.0",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
     "@types/react-dom": "18.2.7",
